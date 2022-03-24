@@ -1,6 +1,6 @@
 # Olá, me chamo Brenda Wyctória ♌
 
-💻| Estudando a linguagem Java Spring Boot, Angular e TypeScript
+💻| Estudando a linguagem Java Framework Spring Boot, Framework Angular e Linguagem TypeScript
 
 📉| Cursando Análise e Desenvolvimento de Sistema 
 
