@@ -1,6 +1,6 @@
 # Olá, me chamo Brenda Wyctória ♌
 
-💻| Conhecendo a linguagem C#
+💻| Est a linguagem Java Spring Boot, Angular e TypeScript
 
 📉| Cursando Análise e Desenvolvimento de Sistema 
 
