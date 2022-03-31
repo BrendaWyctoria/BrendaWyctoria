@@ -22,7 +22,7 @@
   
   <div>
     <img src="https://c.tenor.com/aT2-RRtS7iMAAAAC/funny-face.gif">
-     <img height="150em" src="https://c.tenor.com/aT2-RRtS7iMAAAAC/funny-face.gif
+     <img height="150em" src="https://c.tenor.com/aT2-RRtS7iMAAAAC/funny-face.gif">
   <div>
      
 ##
