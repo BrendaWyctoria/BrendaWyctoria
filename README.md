@@ -4,7 +4,7 @@
 
 📉| Cursando Análise e Desenvolvimento de Sistema 
 
-👩🏾‍💻| Negra | 21 anos 🎉 | Recife - PE 🎭
+👩🏾‍💻| Negra | 23 anos 🎉 | Recife - PE 🎭
 
 <div>
   <a href="https://github.com/BrendaWyctoria">
