@@ -6,7 +6,7 @@
 
 - *CURSANDO* 📉: Análise e Desenvolvimento de Sistema 
 
-- *PERFIL* 👩🏾‍💻: Negra 😍 | 23 anos 🎉 | Recife - PE 🎭 | Leonina ♌
+- *PERFIL* 👩🏾‍💻: Negra 😍 | 24 anos 🎉 | Recife - PE 🎭 | Leonina ♌
 
 &nbsp;&nbsp;&nbsp;
 
